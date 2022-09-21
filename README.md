@@ -44,16 +44,16 @@
 <br>
 
 ## Details
-<img width="70%" src="architecture.PNG"/>
+<img width="70%" src="architecture"/>
 
 <br>
 
-<img width="70%" src="ERD.PNG"/>
+<img width="70%" src="ERD"/>
 
 <br>
 
-<img width="70%" src="flow1.PNG"/>
+<img width="70%" src="flow1"/>
 
 <br>
 
-<img width="70%" src="flow2.PNG"/>
+<img width="70%" src="flow2"/>
